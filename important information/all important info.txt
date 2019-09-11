@@ -1,0 +1,38 @@
+decbinocthexconverter.com
+
+username = jlgosselin
+
+password = jlo120378JLO! (for GODADDY.COM)
+
+other password = JLG120378jlg! (for FILEZILLA)
+
+cPanel
+
+Website(s) IP Address: 160.153.162.13
+
+Customer Number: 168154624
+
+PIN: 1203
+
+
+
+https://ph.godaddy.com/help/filezilla-ftp-settings-to-upload-your-website-104
+
+https://gateway.godaddy.com/account/getstarted?account_type=cpanel&account_uid=929ccc07-ae00-11e7-8101-3417ebe60eb6&id=4043614&marketid=en-PH&regionsite=uk
+
+https://ph.godaddy.com/help/ftp-how-to-upload-files-96
+
+
+							tech support:
+
+(in US: 480-505-8877)
+
+Birmingham+44 121 345 8279
+
+Glasgow+44 141 555 0201
+
+London+44 20 7084 1810
+
+
+
+

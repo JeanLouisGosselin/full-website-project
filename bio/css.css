@@ -1,0 +1,11 @@
+body{	
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 22px;
+	background: linear-gradient(to right, gold, rgba(255,0,0,0));	
+}
+
+h1{
+	text-align: center;
+}
+
